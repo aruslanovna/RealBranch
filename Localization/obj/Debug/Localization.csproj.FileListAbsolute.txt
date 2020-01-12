@@ -1,0 +1,10 @@
+C:\Users\38066\source\repos\RealBranch\Localization\bin\Debug\Localization.dll
+C:\Users\38066\source\repos\RealBranch\Localization\bin\Debug\Localization.pdb
+C:\Users\38066\source\repos\RealBranch\Localization\obj\Debug\Localization.csproj.GenerateResource.cache
+C:\Users\38066\source\repos\RealBranch\Localization\obj\Debug\Localization.csproj.CoreCompileInputs.cache
+C:\Users\38066\source\repos\RealBranch\Localization\obj\Debug\Localization.dll
+C:\Users\38066\source\repos\RealBranch\Localization\obj\Debug\Localization.pdb
+C:\Users\38066\source\repos\RealBranch\Localization\obj\Debug\Localization.ValidationMessage.ua.resources
+C:\Users\38066\source\repos\RealBranch\Localization\obj\Debug\Localization.ValidationMessage.resources
+C:\Users\38066\source\repos\RealBranch\Localization\obj\Debug\Localization.LayoutLocaliz.LocLayout.resources
+C:\Users\38066\source\repos\RealBranch\Localization\obj\Debug\Localization.LayoutLocaliz.LocLayout.ua.resources
